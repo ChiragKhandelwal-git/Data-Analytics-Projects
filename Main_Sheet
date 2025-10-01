@@ -1,0 +1,15 @@
+Excel_Projects/
+    ├── Day4_Pivot_Practice.xlsx
+    ├── Day5_Interactive_Dashboard.xlsx
+    ├── Day6_Fully_Functional_Dashboard.xlsx
+    ├── Day7_VLOOKUP_Practice.xlsx
+    ├── Day8_INDEX_Practice.xlsx
+    ├── Logical_Functions.xlsx
+
+PowerBI_Projects/
+    ├── Day6_Basic_Dashboard.pbix
+    ├── Day16_Interactive_Sales_Dashboard.pbix
+    ├── Day19_Forecasting_Clustering.pbix
+    ├── Drillthrough_Customer_Sales.pbix
+    ├── Star_Schema.pbix
+    ├── Snowflake_Schema.pbix
